@@ -1,4 +1,5 @@
-#  Image Blurring refers to making the image less clear or distinct. It is done with the help of various low pass filter kernels. Advantages of blurring:
+#  Image Blurring 
+It refers to making the image less clear or distinct. It is done with the help of various low pass filter kernels. Advantages of blurring:
 It helps in Noise removal. As noise is considered as high pass signal so by the application of low pass filter kernel we restrict noise.
 It helps in smoothing the image.
 Low intensity edges are removed.
